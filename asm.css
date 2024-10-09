@@ -1,0 +1,410 @@
+#container{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 1531px;
+    height: 70px;
+    background-color: black;
+    margin: -20px;
+    display: block;
+}
+nav a{
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    line-height: 80px;
+    margin: 0 10px;
+    font-family: sans-serif;
+    position: relative;
+    left: 220px;
+}
+nav a:hover{
+    color: goldenrod;
+    background-color: grey;
+    border-radius: 5px;
+}
+.prod>.img{
+    max-width: 98%;
+    height: 120px;
+    top: -75px;
+    position: relative;
+    left: -40px;
+}
+.prod>.img1{
+    max-width: 98%;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    left: 150px;
+}
+form>.submit{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(73, 213, 255);
+    position: absolute;
+    right: 30px;
+    top: 20px;
+    font-family: sans-serif;
+}
+.form2{
+    padding: 10px;
+    position: relative;
+    left: 90px;
+    top: -20px;
+    margin: 20px;
+}
+form>.asd3{
+    background-color: goldenrod;
+    border: none;
+    padding: 40px;
+}
+form>.asd4{
+    background-color: deepskyblue;
+    border: none;
+    padding: 40px;
+}
+.pss{
+    width: 1519px;
+    height: 600px;
+    position: relative;
+    left: -8px;
+    top: -104px;
+}
+.text1{
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+    left: 30px;
+    top: -20px;
+}
+.img2{
+    width: 440px;
+    position: relative;
+    left: 30px;
+}
+.img3{
+    width: 440px;
+    position: relative;
+    margin-left: 70px;
+}
+.img4{
+    width: 459px;
+    position: relative;
+    margin-left: 40px;
+}
+.text2{
+    position: relative;
+    left: 30px;
+}
+.tex2{
+    font-size: 12px;
+    font-weight: 790;
+    color: darkgoldenrod;
+    font-family: sans-serif;
+}
+.text3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    position: relative;
+    left: 30px;
+}
+.tex3{
+    font-size: 12px;
+    font-weight: 790;
+    color: darkgoldenrod;
+    font-family: sans-serif;
+}
+.text4{
+    position: relative;
+    left: 30px;
+}
+.text5{
+    position: relative;
+    left: 515px;
+    top: -143px;
+}
+.text6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    position: relative;
+    left: 515px;
+    top: -143px;
+}
+.text7{
+    position: relative;
+    left: 515px;
+    top: -143px;
+}
+
+
+
+.text8{
+    position: relative;
+    left: 999px;
+    top: -285px;
+}
+.tex4{
+    font-size: 12px;
+    font-weight: 790;
+    color: darkgoldenrod;
+    font-family: sans-serif;
+}
+.text9{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    position: relative;
+    left: 999px;
+    top: -285px;
+}
+.text10{
+    position: relative;
+    left: 999px;
+    top: -285px;
+}
+.asd{
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    bottom: -28px;
+    left: 30px;
+}
+.asd1{
+    font-weight: bold;
+}
+.text11{
+    position: relative;
+    font-size: 30px;
+    left: 200px;
+}
+.text12{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: relative;
+    right: 350px;
+    top: -40px;
+}
+
+.tuong1{
+    color: black;
+    position: relative;
+    left: 40px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tuong2{
+    color: black;
+    position: relative;
+    left: 80px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tuong3{
+    color: black;
+    position: relative;
+    left: 120px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tuong4{
+    color: black;
+    position: relative;
+    left: 160px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tuong5{
+    color: black;
+    position: relative;
+    left: 200px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tuong6{
+    color: black;
+    position: relative;
+    left: 240px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hinha{
+    position: relative;
+    width: 500px;
+    left: 950px;
+    bottom: 450px;
+}
+.chinh{
+    position: relative;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    left: 550px;
+    bottom: 350px;
+}
+.phu{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    left: 1030px;
+    bottom: 350px;
+}
+footer{
+    background-color: black;
+    height: 400px;
+    position: relative;
+    bottom: 1800px;
+}
+footer>img{
+    position: relative;
+    left: 600px;
+    top: 30px;
+}
+.img7{
+    position: relative;
+    left: 24px;
+}
+.img8{
+    width: 100%;
+    position: relative;
+    bottom: 350px;
+}
+.title1{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    bottom: 900px;
+    left: 50px;
+}
+.title1 em>h1{
+    position: relative;
+    bottom: 30px;
+}
+.title1 p{
+    position: relative;
+    bottom: 50px;
+}
+.play{
+    font-weight: lighter;
+    font-size: 20px;
+    background-color: rgb(151, 28, 222);
+    border: none;
+    padding: 30px;
+    position: relative;
+    bottom: 950px;
+    left: 50px;
+}
+.img9{
+    width: 100%;
+    position: relative;
+    bottom: 790px;
+}
+.img10{
+    border-radius: 50%;
+    position: relative;
+    bottom: 1400px;
+    left: 780px;
+}
+.tt1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    bottom: 1800px;
+    left: 300px;
+}
+.tt1 h1>em{
+    position: relative;
+    font-size: 100px;
+    bottom: 30px;
+}
+.tt2{
+    font-size: 20px;
+    border: none;
+    background-color: rgb(212, 192, 62);
+    padding: 40px;
+    position: relative;
+    bottom: 1850px;
+    left: 325px;
+}
+.img11{
+    position: relative;
+    bottom: 1800px;
+    left: 250px;
+}
+.im1{
+    position: relative;
+    left: -20px;
+}
+.im3{
+    position: relative;
+    left: 20px;
+}
+.tt3{
+    text-align: center;
+    font-size: 15px;
+    position: relative;
+    bottom: 1810px;
+    left: -470px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tt4{
+    position: relative;
+    left: 120px;
+    bottom: 55px;
+}
+.tt5{
+    position: relative;
+    left: 246px;
+    bottom: 94px;
+}
+article{
+    text-align: center;
+    background-color: rgb(33, 31, 31);
+    position: relative;
+    height: 70px;
+    line-height: 60px;
+    bottom: 1785px;
+}
+article>a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    padding: 0 20px;
+}
+article>a:hover{
+    background-color: grey;
+    border-radius: 5px;
+    padding: 8px;
+}
+footer>p{
+    text-align: center;
+    color: grey;
+}
+footer>a{
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+.aa1{
+    position: relative;
+    left: 450px;
+    font-size: 13px;
+}
+.aa2{
+    position: relative;
+    left: 480px;
+    font-size: 13px;
+}
+.aa3{
+    position: relative;
+    left: 510px;
+    font-size: 13px;
+}
+footer>a:hover{
+    background-color: grey;
+    border-radius: 5px;
+    padding: 8px;
+}
